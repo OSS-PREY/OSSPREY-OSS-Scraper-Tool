@@ -1,0 +1,31 @@
+[package]
+name = "miner"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+git2 = "0.13"
+structopt = { version = "0.3", default-features = false }
+chrono = "0.4.19"
+rayon = "1.6.1"
+calamine = "0.18.0"
+mail-parser = "0.8"
+regex = "1"
+nom = "7"
+encoding = "0.2"
+scraper = "0.12.0"
+ureq = "2.4.0"
+indexmap = "1.9.2"
+walkdir = "2"
+tokei = "12.1.2"
+reqwest = { version = "0.11", features = ["blocking", "json"] }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+csv = { git = "https://github.com/gootorov/rust-csv.git", rev = "31d1105f9ee50bf02dff178f20be4a1ec9fdff2d" }
+log = "0.4"
+simple_logger = "2.1.0"
+log4rs = "1.0"
+toml = "0.5.8"
+chronoutil = "0.2.3"
+dotenv = "0.15"
+tempfile = "3.3.0"  # Added tempfile dependency
