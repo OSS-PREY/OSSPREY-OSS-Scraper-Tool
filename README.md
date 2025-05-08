@@ -93,12 +93,13 @@ _(Github URL is the project to analyze, and the output folder stores the CSV ana
 Contributions are welcome! However, please do ensure that you are not committing directly to this repo. However, absolutely feel free to fork it and open a Pull Request for minor fixes. For major changes, I'd recommend opening an issue first to discuss your proposal, and we'll take it from there.
 
 ### Contact
-In case of any questions, feel free to reach out to priyal15.soni@gmail.com or pdsoni@ucdavis.edu.
+If you have any questions or concerns, feel free to contact the current tech lead,  
+**Nafiz Imtiaz Khan** ([nikhan@ucdavis.edu](mailto:nikhan@ucdavis.edu)).
+
+For general discussions, contributions, and community updates, join our  
+[OSSPREY Slack workspace](https://join.slack.com/t/osspreyworkspace/shared_invite/zt-35bsf2ypc-tS1a5~~n~33FzVUZptKFUA).
 
 ### License
 This project is licensed under the Apache License 2.0.
 
 ------------------------
-
-
-sudo apt install pkg-config libssl-dev
